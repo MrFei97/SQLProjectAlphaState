@@ -1,2 +1,2 @@
 # SQLProjectAlphaState
-Proyecto Farmacia en beta
+Proyecto Farmacia en alpha
